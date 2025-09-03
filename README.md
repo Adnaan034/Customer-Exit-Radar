@@ -16,6 +16,6 @@ Comparison of Models
 Predictions on new data
 
 📊Visualization
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ed8f3861-1b8f-4fd1-90c0-02ba075825c2" />
 <img width="931" height="560" alt="Image" src="https://github.com/user-attachments/assets/40e98272-1a45-40f7-b4bd-161b62db492d" />
 <img width="932" height="657" alt="Image" src="https://github.com/user-attachments/assets/4409b048-ef1e-4a5d-be2f-b17fe3ca501d" />
+<img width="934" height="795" alt="Image" src="https://github.com/user-attachments/assets/0f8ec3be-f262-4c04-ae26-cffb623e2894" />
